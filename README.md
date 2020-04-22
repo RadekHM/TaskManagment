@@ -9,7 +9,7 @@ mark complete when done.
  1. Download and install Visual Studio from <a href="https://visualstudio.microsoft.com/downloads/">here</a>
  2. Clone this repo to your local machine using:
 ```bash
- git clone https://github.com/Tamer7/VersionCheck.git
+ git clone https://github.com/RadekHM/TaskManagment.git
  ```
 
 
@@ -36,18 +36,18 @@ mark complete when done.
  ## Issue Tasks (Admin)
  Admin can issue task by selecting a user to issue the tasks to.
  
- ![](/Screeshots/Admin Issue Task.PNG)
+ ![](/screenshots/admin_issue_task.PNG)
  
  
  ## Display Tasks (Admin)
  Admin can view all issued task he/she made, the admin can also see if the tasks were completed, and can also edit & delete issued tasks.
  
- ![](/Screeshots/Admin Display All Tasks.PNG) 
+ ![](/screenshots/admin_display_all_tasks.PNG) 
  
  ## Display Users (Admin)
  Admin can also view all registered users and decide to deactivate or reactivate their account if neccessary.
  
- ![](/Screeshots/Admin Display All Users.PNG)
+ ![](/screenshots/admin_display_all_users.PNG)
  
  
  
@@ -55,14 +55,14 @@ mark complete when done.
 
 Users can register if they do not have an active account.
 
- ![](/Screenshots/User Register.PNG)
+ ![](/screenshots/user_register.PNG)
  
  
  ## Display Tasks (User)
  
  Users can view their issued tasks, which include date of task created and due date for the task to be complete, users can also mark tasks as complete when the task issued to them were completed
 
-![](/Screenshots/User Display Tasks.PNG)
+![](/screenshots/user_display_tasks.PNG)
  
  
  
